@@ -41,7 +41,6 @@
   <tr>
     <td align="center"><img src="Project pictures/IMG_20251122_215233.jpg" width="300" alt="LCD display showing temperature and gas status"/></td>
     <td align="center"><img src="Project pictures/IMG_20251122_215254.jpg" width="300" alt="ESP32 breadboard wiring"/></td>
-    <td align="center"></td>
   </tr>
 </table>
 
