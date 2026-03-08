@@ -38,11 +38,9 @@
     <td align="center"><img src="Project pictures/IMG_20251122_213235.jpg" width="300" alt="House model side with electronics"/></td>
     <td align="center"><img src="Project pictures/IMG_20251122_215212.jpg" width="300" alt="House model interior"/></td>
   </tr>
-</table>
-<table>
   <tr>
-    <td align="center"><img src="Project pictures/IMG_20251122_215233.jpg" width="310" alt="LCD display showing temperature and gas status"/></td>
-    <td align="center"><img src="Project pictures/IMG_20251122_215254.jpg" width="618" alt="ESP32 breadboard wiring"/></td>
+    <td align="center"><img src="Project pictures/IMG_20251122_215233.jpg" width="300" alt="LCD display showing temperature and gas status"/></td>
+    <td align="center"><img src="Project pictures/IMG_20251122_215254.jpg" width="300" alt="ESP32 breadboard wiring"/></td>
   </tr>
 </table>
 
